@@ -1,1 +1,1 @@
-java --module-path /snap/openjfx/current/sdk/lib --add-modules javafx.controls,javafx.fxml -Djava.library.path=/snap/openjfx/current/sdk/lib -jar ./dist/JavaFX_MultiForms_2021.jar
+java --module-path /snap/openjfx/current/sdk/lib --add-modules javafx.controls,javafx.fxml -jar ./dist/JavaFX_MultiForms_2021.jar
